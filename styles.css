@@ -64,4 +64,9 @@ body {
     h1 {
         text-align: center;
     }
+
+    video {
+        width: 350px;
+        height: 200px;
+    }
 }
